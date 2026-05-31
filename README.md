@@ -4,6 +4,13 @@ TaskSphere is a premium, responsive Kanban-style Task Manager application built 
 
 ---
 
+## 🚀 Live Demo
+
+- **Frontend App**: [https://task-manager-g5xutuhdd-kavya-s-projects22.vercel.app](https://task-manager-g5xutuhdd-kavya-s-projects22.vercel.app)
+- **Backend API**: [https://taskmanager-qx8t.onrender.com/api](https://taskmanager-qx8t.onrender.com/api)
+
+---
+
 ## Technical Stack
 
 - **Frontend**: React (Vite), Lucide React (Icons), Vanilla CSS (Custom Glassmorphism design system)
